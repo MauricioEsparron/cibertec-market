@@ -1,4 +1,4 @@
-package com.cibertec.cibertec_market.domain;
+package com.cibertec.cibertec_market.domain.dto;
 
 import lombok.Getter;
 import lombok.Setter;

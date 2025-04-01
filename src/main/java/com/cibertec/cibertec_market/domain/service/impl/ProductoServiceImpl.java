@@ -6,7 +6,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.cibertec.cibertec_market.domain.ProductoDTO;
+import com.cibertec.cibertec_market.domain.dto.ProductoDTO;
 import com.cibertec.cibertec_market.domain.service.ProductoService;
 import com.cibertec.cibertec_market.persistence.mapper.ProductMapper;
 import com.cibertec.cibertec_market.persistence.model.entity.ProductoEntity;

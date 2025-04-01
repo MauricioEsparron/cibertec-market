@@ -7,7 +7,7 @@ import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.Mappings;
 
-import com.cibertec.cibertec_market.domain.ProductoDTO;
+import com.cibertec.cibertec_market.domain.dto.ProductoDTO;
 import com.cibertec.cibertec_market.persistence.model.entity.ProductoEntity;
 
 @Mapper(componentModel = "spring", uses = {CategoryMapper.class})

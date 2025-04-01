@@ -3,7 +3,7 @@ package com.cibertec.cibertec_market.domain.service;
 import java.util.List;
 import java.util.Optional;
 
-import com.cibertec.cibertec_market.domain.ProductoDTO;
+import com.cibertec.cibertec_market.domain.dto.ProductoDTO;
 
 
 public interface ProductoService {

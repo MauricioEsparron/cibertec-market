@@ -1,6 +1,6 @@
 package com.cibertec.cibertec_market.persistence.mapper;
 
-import com.cibertec.cibertec_market.domain.CategoryDTO;
+import com.cibertec.cibertec_market.domain.dto.CategoryDTO;
 import com.cibertec.cibertec_market.persistence.model.entity.CategoriaEntity;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;

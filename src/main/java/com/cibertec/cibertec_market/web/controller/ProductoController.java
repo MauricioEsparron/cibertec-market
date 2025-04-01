@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.cibertec.cibertec_market.domain.ProductoDTO;
+import com.cibertec.cibertec_market.domain.dto.ProductoDTO;
 import com.cibertec.cibertec_market.domain.service.ProductoService;
 
 @RestController
